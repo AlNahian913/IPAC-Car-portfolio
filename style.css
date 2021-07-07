@@ -30,3 +30,14 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.half-width-1{
+    width: 90%;
+}
+.hire{
+    color: rgb(204, 109, 40);
+}
+.hire1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
